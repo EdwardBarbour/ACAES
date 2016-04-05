@@ -21,7 +21,7 @@ In Single_cycle_new.m
 lines 12-24 are the simulation constants
 line 26 don't change the r value
 lines 28-31 choose the work to be stored, number of stages, initial and final pressures
-line 33 pressure drop for guessing teh final r value, guess according to previous calculated p drop
+line 33 pressure drop for guessing the final r value, guess according to previous calculated p drop
 line 41-51 the packed bed heat exchanger characteristics
 
 Comments are included in all the scripts
