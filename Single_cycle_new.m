@@ -1,13 +1,8 @@
 % An attempt at a dynamic model of an AA-CAES system with Packed Beds to
 % store the compression heat
-% Code can be downloaded at www.energystoragesense.com/downloads
-% should hopefully just run... comments aren't the most descriptive but
-% rather than write a whole README easiest way to get a feel for it is just
-% to run and have a play? Can email me at
-% contact@energystoragesense.com if you have any queries - I might be able
-% to help!
 
 % Edward Barbour
+% edward.r.barbour@gmail.com
 % 10/11/2014
 
 clc; clear all;
